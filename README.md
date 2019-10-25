@@ -1,6 +1,6 @@
 # Video Doorbell, Lab 7
 
-*A lab report by John Q. Student*
+*A lab report by Ziyu Liu*
 
 ### In This Report
 
@@ -12,11 +12,17 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
+[video](https://youtu.be/3OFHXAw95xA)
+
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
+Other than the SerialPort input from USB, we also need to initialize input for node-webcam to enable functions for webcamera.
+
 **b. Include a video of your working video doorbell**
+
+[video doorbell](https://youtu.be/cMnmYMs_4Rs)
 
 ## Part C. Make it your own
 
