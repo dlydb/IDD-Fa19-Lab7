@@ -28,4 +28,8 @@ Other than the SerialPort input from USB, we also need to initialize input for n
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
+The package I was using was the GM. The GM package is a pretty comprehensive one that have so many features that can add aftereffect to the pictures that you taken. I tried some functions such as resize, blur, contrast and other functions that can be used to change the image.
+
 **b. Upload a video of your working modified project**
+
+I added a button that is the blur button that blur the image after your take an image. However, on the second day, I cannot connect to the pi and do not have any idea why I cannot ping or ssh the pi. I used image that I saved with blur implementation last day and here is the [original image.](https://github.com/dlydb/IDD-Fa19-Lab7/blob/master/test_picture.jpg) [blur image](https://github.com/dlydb/IDD-Fa19-Lab7/blob/master/blur.jpg)
